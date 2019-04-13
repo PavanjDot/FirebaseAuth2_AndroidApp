@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1012188787633",
+    "firebase_url": "https://facebookauth-48a43.firebaseio.com",
+    "project_id": "facebookauth-48a43",
+    "storage_bucket": "facebookauth-48a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012188787633:android:5221cb46b2939b87",
+        "android_client_info": {
+          "package_name": "pavanjdot.com.facebookauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012188787633-dnve3bvmmdidmp76qstiamj7i2atcbdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_J_Frvcr-KfPLa3r9klM-KsuAhu09TGg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
